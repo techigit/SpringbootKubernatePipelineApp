@@ -8,6 +8,7 @@ public class SpringbootKubernateCicdPipelineAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootKubernateCicdPipelineAppApplication.class, args);
+		System.out.println("hello");
 	}
 
 }
