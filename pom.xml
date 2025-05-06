@@ -80,7 +80,6 @@
 	</dependencies>
 
 	<build>
-	<finalName>springboot-kubenates-cicd-pipeline</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
